@@ -1,0 +1,13 @@
+- Lấy thông tin dữ liệu từ các trang web về bất động sản:
+ - https://youhomes.vn/ 
+ - https://www.muabannhadat.vn/ 
+ - https://batdongsan321.com/#/ 
+ - https://homedy.com/
+ - https://cafeland.vn/ (trang thông tin bất động sản)
+
+- Hệ thống sẽ gồm 3 category chính là: Thông tin mua bán nhà đất, thông tin dịch vụ BĐS và thông tin dự án BĐS
+- Phân tích thiết kế hệ thống homeland
+ - Hệ thống xoay quanh bảng article và blog
+ - Khi cron dữ liệu về thì sẽ chuẩn hoá dữ liệu theo 1 dạng nhất định
+ - Xây dựng theo hướng kho dữ liệu
+ 
